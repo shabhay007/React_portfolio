@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/React_portfolio/static/css/main.d7a50c63.chunk.css",
+    "main.js": "/React_portfolio/static/js/main.37a04928.chunk.js",
+    "main.js.map": "/React_portfolio/static/js/main.37a04928.chunk.js.map",
+    "runtime-main.js": "/React_portfolio/static/js/runtime-main.7b42e31a.js",
+    "runtime-main.js.map": "/React_portfolio/static/js/runtime-main.7b42e31a.js.map",
+    "static/js/2.4110ceb2.chunk.js": "/React_portfolio/static/js/2.4110ceb2.chunk.js",
+    "static/js/2.4110ceb2.chunk.js.map": "/React_portfolio/static/js/2.4110ceb2.chunk.js.map",
+    "index.html": "/React_portfolio/index.html",
+    "precache-manifest.59840e5b8d92ae976445baf13b3c8cf6.js": "/React_portfolio/precache-manifest.59840e5b8d92ae976445baf13b3c8cf6.js",
+    "service-worker.js": "/React_portfolio/service-worker.js",
+    "static/css/main.d7a50c63.chunk.css.map": "/React_portfolio/static/css/main.d7a50c63.chunk.css.map",
+    "static/js/2.4110ceb2.chunk.js.LICENSE.txt": "/React_portfolio/static/js/2.4110ceb2.chunk.js.LICENSE.txt",
+    "static/media/React_ToDo_List.png": "/React_portfolio/static/media/React_ToDo_List.729181f1.png",
+    "static/media/background.webp": "/React_portfolio/static/media/background.bf989778.webp",
+    "static/media/contact-form.styles.css": "/React_portfolio/static/media/background.e95d0563.webp",
+    "static/media/bootstrap-4.svg": "/React_portfolio/static/media/bootstrap-4.ffded238.svg",
+    "static/media/cpp_img_icon.jfif": "/React_portfolio/static/media/cpp_img_icon.4d5ca5f0.jfif",
+    "static/media/css3.svg": "/React_portfolio/static/media/css3.3707da3c.svg",
+    "static/media/folio.png": "/React_portfolio/static/media/folio.9f17eb7a.png",
+    "static/media/git-icon.svg": "/React_portfolio/static/media/git-icon.1190a19c.svg",
+    "static/media/html-5.svg": "/React_portfolio/static/media/html-5.676e8188.svg",
+    "static/media/javascript.svg": "/React_portfolio/static/media/javascript.2d2e31cc.svg",
+    "static/media/material-ui-1.svg": "/React_portfolio/static/media/material-ui-1.82291019.svg",
+    "static/media/mongodb.svg": "/React_portfolio/static/media/mongodb.2985235d.svg",
+    "static/media/mssql.svg": "/React_portfolio/static/media/mssql.54d7bddc.svg",
+    "static/media/nodejs.svg": "/React_portfolio/static/media/nodejs.a1231528.svg",
+    "static/media/profile.jpg": "/React_portfolio/static/media/profile.762e0b3e.jpg",
+    "static/media/python_img_icon.jfif": "/React_portfolio/static/media/python_img_icon.3314fa1e.jfif",
+    "static/media/react.svg": "/React_portfolio/static/media/react.4009eef3.svg",
+    "static/media/render.svg": "/React_portfolio/static/media/render.70345ead.svg",
+    "static/media/slide1.webp": "/React_portfolio/static/media/slide1.8bce7aef.webp",
+    "static/media/slide2.webp": "/React_portfolio/static/media/slide2.7256f309.webp",
+    "static/media/slide3.webp": "/React_portfolio/static/media/slide3.8e5b87b6.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b42e31a.js",
+    "static/js/2.4110ceb2.chunk.js",
+    "static/css/main.d7a50c63.chunk.css",
+    "static/js/main.37a04928.chunk.js"
+  ]
+}
